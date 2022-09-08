@@ -4,7 +4,7 @@
 
 Code for this **preprint** paper [Can You Win Everything with Lottery Ticket?]()
 
-Tianlong Chen, Zhenyu Zhang, Sijia Liu, Shiyu Chang, Zhangyang Wang
+Tianlong Chen, Zhenyu Zhang, Jun Wu, Randy Huang, Sijia Liu, Shiyu Chang, Zhangyang Wang
 
 ## Overview
 
